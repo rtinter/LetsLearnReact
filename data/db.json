@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "87c8",
+      "title": "Welcome!",
+      "body": "Lorem Ipsum..",
+      "author": "René"
+    },
+    {
+      "id": "4a89",
+      "title": "Yes! It works :)",
+      "body": "#kindaProud",
+      "author": "René"
+    }
+  ]
+}
